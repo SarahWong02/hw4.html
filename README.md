@@ -2,7 +2,7 @@
 <html lang="en"> 
 <head> 
  <meta charset="utf-8"> 
- <title>My hmwk4 web page in HTML5</title> 
+ <title>My hmwk4 web page in HTML</title> 
      <!-- here is some comment --> 
  <meta name="description" content="This is my homework 4 page using HTML5 and inline CSS"> 
 </head> 
